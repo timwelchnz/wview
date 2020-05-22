@@ -1,8 +1,6 @@
-##############################################################################
-README - wview Build/Configuration Instructions and User Manual
-##############################################################################
+This is a mirror of https://github.com/jgoerzen/wview
+I use WView on a Raspberry Pi and occasionally it dies with power flucuations and so I rebuild it.
+Considering that as of May 2020 www.wviewweather.com is down and this repository hasn't been updated in 9 years
+I decided it would be safe to make a copy of it for prosperity.
 
-
-This file is no longer maintained. 
-
-See wview-User-Manual.html or wview-Quick-Start.html for a better experience...
+See wview-User-Manual.html or wview-Quick-Start.html for installation and documentions
